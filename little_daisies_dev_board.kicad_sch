@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "1d7f8a23-917d-4aaf-9484-e227942640a5")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 34.29 43.18)
+		(size 74.93 58.42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cfc3d48e-7a3b-4f9d-b699-4f7359090067")
+		(property "Sheetname" "ESP_main_board"
+			(at 34.29 42.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp_main_board.kicad_sch"
+			(at 34.29 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "little_daisies_dev_board"
+				(path "/1d7f8a23-917d-4aaf-9484-e227942640a5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
